@@ -1,4 +1,4 @@
-# Sintaxy SQL ATV 01
+# Sintaxy SQL ATV 02
 <br>
 
 <H1>
@@ -8,7 +8,7 @@
 <br>
 
 <p>
- Cada aluno deverá criar uma base de dados com nome AlunosSala com uma tabela chamada alunos, com colunas id (AUTO_INCREMENT) , nome (VARCHAR) , sobrenome (VARCHAR) , idade (VARCHAR) e alimenta-la com as informações listadas através de um sistema SGBD.
+ Cada aluno deverá classificar sua base de dados com nome AlunosSala de acordo com a idade da cada aluno através de um sistema SGBD.
 Cada aluno deverá posta o código fonte na plataforma Github e inserir o respectivo link na plataforma classrom 
   
 </p>
@@ -52,7 +52,7 @@ Critérios de Avaliação
 <br>
 
 <p>
- Each student must create a database named StudentsRoom with a table called students, with columns id (AUTO_INCREMENT), name (VARCHAR), surname (VARCHAR), age (VARCHAR) and feed it with the information listed through a system DBMS.
+Each student must classify their database with the name StudentsSala according to the age of each student through a DBMS system.
 Each student must post the source code on the Github platform and insert the respective link on the classrom platform
   
 </p>
